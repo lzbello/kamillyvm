@@ -3,15 +3,15 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      フルスタック
     </b>
       <br>
-      Hi there! I'm Kamilly Medino
+      Hi there! I'm Luiz Bello
       <br>
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flzbello&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -21,7 +21,7 @@
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/bello_♡-black" />
 </div>
 
 <div align="center" width="100%">
@@ -44,20 +44,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=lzbello&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzbello&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzbello&theme=tokyonight"
   />
   <br>
   <br>
@@ -65,7 +65,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=lzbello&theme=tokyonight&hide_border=true&card_width=885"
   />
   </div>
 
